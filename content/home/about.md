@@ -10,31 +10,30 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Environmental Carcinigenesis",
+    "Genomics",
+    "Biomarkers"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Interdisciplinary Oncology"
+  institution = "University of British Columbia"
+  year = 2018  
+  
+[[education.courses]]
+  course = "PhD in Biomedical Sciences"
+  institution = "University of Chile"
+  year = 2010
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Biotechnology"
+  institution = "University of Chile"
+  year = 2004
  
 +++
 
 # Biography
 
-Victor Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Victor Martinez received his Ph.D. in Biomedical Sciences from the University of Chile, before joining the British Columbia Cancer Research Centre in Vancouver, Canada. He leads several ‘big data’ projects that investigate cancer etiology and tumor biology, with a long-term vision of translating his findings to benefit cancer patients. Dr. Martinez’s publications span multiple disciplines, including cancer biology, genomics, epigenetics, and computational biology.  He is internationally recognized for his work on non-coding RNA transcriptome, and has received multiple awards for his contributions to the field of environmental cancer genomics.  Currently, he serves on the editorial boards of Scientific Reports and Biomed Research International.
