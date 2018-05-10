@@ -3,7 +3,7 @@ title = "Response to ERBB3-Directed Targeted Therapy in NRG1-Rearranged Cancers"
 date = 2018-04-02T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Drilon A", Somwar R, Mangatt BP, Edgren H, Desmeules P, Ruusulehto A, Smith RS, Delasos L, Vojnic M, Plodkowski AJ, Sabari J, Ng K, Montecalvo J, Chang J, Tai H, Lockwood WW, Martinez VD, Riely GJ, Rudin CM, Kris MG, Arcila ME, Matheny C, Benayed R, Rekhtman N, Ladanyi M, Ganji G.]
+authors = ["Drilon A", "Somwar R", "Mangatt BP", "Edgren H", "Desmeules P", "Ruusulehto A", "Smith RS", "Delasos L", "Vojnic M", "Plodkowski AJ", "Sabari J", "Ng K", "Montecalvo J", "Chang J", "Tai H", "Lockwood WW", "Martinez VD", "Riely GJ", "Rudin CM", "Kris MG", "Arcila ME", "Matheny C", "Benayed R", "Rekhtman N", "Ladanyi M", "Ganji G"]
 
 
 
