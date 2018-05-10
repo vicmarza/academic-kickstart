@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Cancer Discovery*."
-# publication_short = "In *ICMEW*"
+publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
 abstract = "NRG1 rearrangements are oncogenic drivers that are enriched in invasive mucinous adenocarcinomas (IMAs) of the lung. The oncoprotein binds ERBB3-ERBB2 heterodimers and activates downstream signaling, supporting a therapeutic paradigm of ERBB3/ERBB2 inhibition. As proof of concept, a durable response was achieved with anti-ERBB3 monoclonal antibody therapy (GSK2849330) in an exceptional responder with an NRG1-rearranged IMA on a phase 1 trial (NCT01966445). In contrast, response was not achieved with anti-ERBB2 therapy (afatinib) in four NRG1-rearranged IMA patients (including the index patient post-GSK2849330). While in vitro data supported the use of either ERBB3 or ERBB2 inhibition, these clinical results were consistent with more profound anti-tumor activity and downstream signaling inhibition with anti-ERBB3 versus anti-ERBB2 therapy in an NRG1-rearranged patient-derived xenograft model. Analysis of 8,984 and 17,485 tumors in The Cancer Genome Atlas and MSK-IMPACT datasets, respectively, identified NRG1 rearrangements with novel fusion partners in multiple histologies, including breast, head and neck, renal, lung, ovarian, pancreatic, prostate, and endometrial cancers."
