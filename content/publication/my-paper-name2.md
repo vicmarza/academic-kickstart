@@ -15,10 +15,10 @@ authors = ["Drilon A", "Somwar R", "Mangatt BP4", "Edgren H", "Desmeules P", "Ru
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "Cancer Discovery"
 publication_short = ""
 
 # Abstract and optional shortened version.
