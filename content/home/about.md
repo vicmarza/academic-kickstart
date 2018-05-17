@@ -35,6 +35,4 @@ weight = 5
 
 # Biography
 
-Victor is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Victor  received his Ph.D. in Biomedical Sciences from the University of Chile, before joining the British Columbia Cancer Research Centre in Vancouver, Canada. He leads several ‘big data’ projects that investigate cancer etiology and tumor biology, with a long-term vision of translating his findings to benefit cancer patients. Dr. Martinez’s publications span multiple disciplines, including cancer biology, genomics, epigenetics, and computational biology.  He is internationally recognized for his work on non-coding RNA transcriptome, and has received multiple awards for his contributions to the field of environmental cancer genomics.  Currently, he serves on the editorial boards of Scientific Reports and Biomed Research International.
