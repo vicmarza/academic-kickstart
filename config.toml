@@ -63,11 +63,11 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait2.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
+  email = "vmartinez(at)bccrc.ca"
   address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  phone = "+1 (604) 675 8000 x 7716"
+  skype = "bictorinox"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -215,7 +215,7 @@ enableGitInfo = false
   #   For email icon, use "fa" icon pack, "envelope" icon, and
   #   "mailto:your@email.com" as the link.
   #
-  #   Full list: https://fortawesome.github.io/Font-Awesome/icons/
+  #   Full list: 
   #
   # Icon pack "ai" includes the following academic network icons:
   #
@@ -241,8 +241,13 @@ enableGitInfo = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/vicmarza"
-
+    link = "//github.com/vicmarza"  
+    
+    
+   [[params.social]]
+    icon = "researchgate"
+    icon_pack = "fa"
+    link = "https://www.researchgate.net/profile/Victor_Martinez9"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
