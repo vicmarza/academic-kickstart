@@ -243,11 +243,11 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "//github.com/vicmarza"  
     
-    
    [[params.social]]
     icon = "researchgate"
-    icon_pack = "fa"
-    link = "https://www.researchgate.net/profile/Victor_Martinez9"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Victor_Martinez9"  
+    
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
