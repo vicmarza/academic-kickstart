@@ -5,8 +5,31 @@ active = true
 date = 2018-05-16T00:00:00
 
 # Order that this section will appear in.
-weight = 5
+weight = 5  
 
+# List your academic interests.
+[interests]
+  interests = [
+    "Environmental Genomics",
+    "Computational Biology",
+    "Public Health"
+  ]
+
+# List your qualifications (such as academic degrees).  
+[[education.courses]]
+  course = "MSc in  Interdisplinary Oncology"
+  institution = "University of British Columbia"
+  year = 2018
+
+[[education.courses]]
+  course = "PhD in Biomedical Sciences"
+  institution = "University of Chile"
+  year = 2010
+
+[[education.courses]]
+  course = "Biotechnology Engineer"
+  institution = "University of Chile"
+  year = 2008
  
 +++
 ### **Hi, have we met before? Please let me introduce myself...**   
