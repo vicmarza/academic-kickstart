@@ -6,7 +6,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Recent Publications"
-subtitle = "Full list of publications [here](../blob/master/LICENSE)"
+subtitle = "Full list of publications [here](https://scholar.google.ca/citations?user=V1JcXk0AAAAJ&hl=en)"
 
 # Order that this section will appear in.
 weight = 20
