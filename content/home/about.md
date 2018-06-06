@@ -38,7 +38,5 @@ Born and raised in Santiago, Chile. I'm a scientist, probably because I was a cu
 
 Now, I investigate the "scars" that the environment leaves in our genome. I envision my research contributing to prevent diseases caused by exposure to environmental agents.  
 
-Thanks for your time.  
-
-***  
+Thanks for your time.
 
