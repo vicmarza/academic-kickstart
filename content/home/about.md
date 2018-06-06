@@ -15,16 +15,16 @@ weight = 5
     "Public Health"
   ]
 
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Biomedical Sciences"
-  institution = "University of Chile"
-  year = 2010
-
+# List your qualifications (such as academic degrees).  
 [[education.courses]]
   course = "MSc in  Interdisplinary Oncology"
   institution = "University of British Columbia"
   year = 2018
+
+[[education.courses]]
+  course = "PhD in Biomedical Sciences"
+  institution = "University of Chile"
+  year = 2010
 
 [[education.courses]]
   course = "Biotechnology Engineer"
