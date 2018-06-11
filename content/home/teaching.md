@@ -17,11 +17,20 @@ weight = 60
 
 ## Teaching experience in Canada
 
-**Course** | **Year** | **Institution** |	**Role**
------------|----------|-----------------|-----------
+**Course/program** | **Year** | **Institution** |	**Role**
+-------------------|----------|-----------------|-----------
 ONCO548 - Oncology Rotation | 2017 |	University of British Columbia - Interdisciplinary Oncology Program |	Invited lecturer
 ENSC460 - Optical Instrumentation for Cancer Detection and Diagnosis | 2016 |	Engineering Science Program – Simon Fraser University |	Invited lecturer
 MEDG421 – Genetics and cell biology of cancer | 2016 |	University of British Columbia |	Invited lecturer
 Occupational & Environmental Health Seminars | 2012 | University of British Columbia – School of Population Health |	Invited lecturer  
+
+## Teaching experience abroad
+**Course/program** | **Year** | **Institution** |	**Role**
+-------------------|----------|-----------------|-----------
+Biotechnology Management MSc Program | 2007-2011 | University of Santiago, Faculty of Engineering | Instructor 
+Chemistry - Scientific Basis of Medicine | 2009-2010 | University of Chile, Faculty of Medicine | Teaching Assistant
+Genetics | 2007 | University of Chile, Faculty of Medicine | Teaching Assistant
+Environmental Toxicology and Toxicogenomic - Risk Assessment of Toxic Compounds | 2004 | University of Chile, Faculty of Medicine | Teaching Assistant
+Chemistry - Scientific Basis of Medicine | 2002-2003 | University of Chile, Faculty of Medicine | Teaching Assistant
 
 
