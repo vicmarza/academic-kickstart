@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Welcome!"
+title = "Victor Martinez's Academic Site"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -64,8 +64,8 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait2.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "vmartinez(at)bccrc.ca"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  address = "675 West 10th Ave. vancouver, BC, V5Z1L3, Canada"
+  # office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "+1 (604) 675 8000 x 7716"
   skype = "bictorinox"
   telegram = ""
