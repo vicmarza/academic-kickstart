@@ -18,7 +18,7 @@ weight = 60
 
 
 **Course** | **Year** | **Institution** |	**Role**
-------------|----------|-----------------|-----------  
+-----------|----------|-----------------|-----------  
 
 ONCO548 - Oncology Rotation | 2017 |	University of British Columbia - Interdisciplinary Oncology Program |	Invited lecturer
 ENSC460 - Optical Instrumentation for Cancer Detection and Diagnosis | 2016 |	Engineering Science Program – Simon Fraser University |	Invited lecturer
