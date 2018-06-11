@@ -68,7 +68,7 @@ enableGitInfo = false
   office_hours = "email for appointment"
   phone = "+1 (604) 675 8000 x 7716"
   skype = "bictorinox"
-  telegram = ""
+  # telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
