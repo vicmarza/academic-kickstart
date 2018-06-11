@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "http://science.sciencemag.org/content/342/6158/559.1.long"
+url_pdf = "https://www.jto.org/article/S1556-0864(15)32179-1/fulltext"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
