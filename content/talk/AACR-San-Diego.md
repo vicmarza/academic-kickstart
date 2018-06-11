@@ -1,5 +1,5 @@
 +++
-title = "[**AACR Scholar-in-training Award**] Piwi-interacting RNA transcriptome analyses identify cancer type-specific expression and signatures predicting lung tumor behavior"
+title = "Piwi-interacting RNA transcriptome analyses identify cancer type-specific expression and signatures predicting lung tumor behavior"
 date = 2016-01-07T11:05:40-07:00  # Schedule page publish date.
 draft = false
 
@@ -14,8 +14,8 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Fourth AACR-IASLC International Joint Conference: Lung Cancer Translational Science from the Bench to the Clinic"
-event_url = ""
+event = "Presentation selected for the **AACR Scholar-in-training Award** at the "Fourth AACR-IASLC International Joint Conference: Lung Cancer Translational Science from the Bench to the Clinic"
+event_url = "http://www.aacr.org/Meetings/Pages/Program-Detail.aspx?EventItemID=74&DetailItemID=&Day=01072016#.Wx8JIlOUvex"
 
 # Location of event.
 location = "San Diego, USA"
