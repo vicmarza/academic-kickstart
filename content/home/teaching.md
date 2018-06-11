@@ -14,8 +14,6 @@ subtitle = ""
 weight = 60
 
 +++  
-## Teaching experience in Canada  
-
 
 **Course** | **Year** | **Institution** |	**Role**
 -----------|----------|-----------------|-----------  
@@ -26,5 +24,3 @@ MEDG421 – Genetics and cell biology of cancer | 2016 |	University of British C
 Occupational & Environmental Health Seminars | 2012 | University of British Columbia – School of Population Health |	Invited lecturer  
 
 
-
-## Teaching experience abroad
