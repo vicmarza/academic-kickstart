@@ -14,7 +14,7 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Presentation selected for the **AACR Scholar-in-training Award** at the "Fourth AACR-IASLC International Joint Conference: Lung Cancer Translational Science from the Bench to the Clinic"
+event = Fourth AACR-IASLC International Joint Conference: Lung Cancer Translational Science from the Bench to the Clinic (**AACR Scholar-in-training Award**)"
 event_url = "http://www.aacr.org/Meetings/Pages/Program-Detail.aspx?EventItemID=74&DetailItemID=&Day=01072016#.Wx8JIlOUvex"
 
 # Location of event.
