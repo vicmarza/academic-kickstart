@@ -25,7 +25,8 @@ ENSC460 - Optical Instrumentation for Cancer Detection and Diagnosis | 2016 |	Si
 MEDG421 – Genetics and cell biology of cancer | 2016 |	University of British Columbia - Maculty of Medicine |	Invited lecturer
 Occupational & Environmental Health Seminars | 2012 | University of British Columbia – School of Population Health |	Invited lecturer  
 
-***  
+*** 
+***
 
 
 ## Teaching experience abroad
