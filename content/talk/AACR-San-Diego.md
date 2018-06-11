@@ -1,5 +1,5 @@
 +++
-title = "Piwi-interacting RNA transcriptome analyses identify cancer type-specific expression and signatures predicting lung tumor behavior (**AACR Scholar-in-training Award**)"
+title = "[**AACR Scholar-in-training Award**] Piwi-interacting RNA transcriptome analyses identify cancer type-specific expression and signatures predicting lung tumor behavior"
 date = 2016-01-07T11:05:40-07:00  # Schedule page publish date.
 draft = false
 
