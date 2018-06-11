@@ -18,3 +18,11 @@ weight = 60
 This is an example of using the *custom* widget to create your own homepage section.
 
 To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+
+
+**Course name** | **Year** | **Institution** |	**Role**
+----------------|----------|-----------------|-----------
+ONCO548 | 2017 |	University of British Columbia - Interdisciplinary Oncology Program |	Invited lecturer
+ENSC460 - Optical Instrumentation for Cancer Detection and Diagnosis | 2016 |	Engineering Science Program – Simon Fraser University |	Invited lecturer
+MEDG421 – Genetics and cell biology of cancer | 2016 |	University of British Columbia |	Invited lecturer
+Occupational & Environmental Health Seminars | 2012 | University of British Columbia – School of Population Health |	Invited lecturer
