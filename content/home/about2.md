@@ -1,6 +1,6 @@
 +++
 # About/Biography widget.
-widget = "about"
+widget = "about2"
 active = true
 date = 2018-05-16T00:00:00
 
