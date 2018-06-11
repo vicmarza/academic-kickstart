@@ -1,8 +1,7 @@
----
++++
 title: "Whole-genome sequencing analysis identifies a distinctive mutational spectrum in an arsenic-related lung tumor"
 date: 2013-11-08T15:26:04-07:00
 draft: true
----
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Martinez VD**", "Thu KL", "Vucic EA", "Hubaux R", "Adonis M", "Gil L", "MacCaulay C", "Lam S", "Lam WL"]
