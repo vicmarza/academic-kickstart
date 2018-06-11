@@ -14,7 +14,8 @@ subtitle = ""
 weight = 60
 
 +++  
-# Teaching experience in Canada
+## Teaching experience in Canada  
+
 
 **Course** | **Year** | **Institution** |	**Role**
 ------------|----------|-----------------|-----------  
@@ -24,4 +25,6 @@ ENSC460 - Optical Instrumentation for Cancer Detection and Diagnosis | 2016 |	En
 MEDG421 – Genetics and cell biology of cancer | 2016 |	University of British Columbia |	Invited lecturer
 Occupational & Environmental Health Seminars | 2012 | University of British Columbia – School of Population Health |	Invited lecturer  
 
-# Teaching experience abroad
+
+
+## Teaching experience abroad
