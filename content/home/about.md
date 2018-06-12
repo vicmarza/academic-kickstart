@@ -20,7 +20,12 @@ weight = 5
 [[education.courses]]
   course = "MSc in  Interdisplinary Oncology"
   institution = "University of British Columbia"
-  year = 2018
+  year = 2018 
+  
+[[education.courses]]
+  course = "Silicon Valley Immersion Program"
+  institution = "University of San Francisco"
+  year = 2011
 
 [[education.courses]]
   course = "PhD in Biomedical Sciences"
@@ -32,12 +37,8 @@ weight = 5
   institution = "University of Chile"
   year = 2008  
   
-# Other degrees. 
 
-[[diploma.courses]]
- course = "Silicon Valley Immersion Program"
-  institution = "University of San Francisco"
-  year = 2011
+
 
  
 +++  
