@@ -1,10 +1,10 @@
 +++
-title = "Unique somatic and malignant expression patterns implicate PIWI-interacting RNAs in cancer-type specific biology"
-date = 2015-05-27T15:26:04-07:00
+title = "Whole-genome sequencing analysis identifies a distinctive mutational spectrum in an arsenic-related lung tumor"
+date = 2013-11-08T15:26:04-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Martinez VD**", "Vucic EA", "Thu KL", "Hubaux R", "Enfield KS", "Pikor LA", "Becker-Santos DD", "Brown CJ" "Lam S", "Lam WL"]
+authors = ["**Martinez VD**", "Thu KL", "Vucic EA", "Hubaux R", "Adonis M", "Gil L", "MacCaulay C", "Lam S", "Lam WL"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["**Martinez VD**", "Vucic EA", "Thu KL", "Hubaux R", "Enfield KS", "P
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "**Scientific Reports**"
+publication = "**Journal of Thoracic Oncology**"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Human PIWI-interacting RNAs (piRNAs) are known to be expressed in germline cells, functionally silencing LINEs and SINEs. Their expression patterns in somatic tissues are largely uncharted. We analyzed 6,260 human piRNA transcriptomes derived from non-malignant and tumour tissues from 11 organs. We discovered that only 273 of the 20,831 known piRNAs are expressed in somatic non-malignant tissues. However, expression patterns of these piRNAs were able to distinguish tissue-of-origin. A total of 522 piRNAs are expressed in corresponding tumour tissues, largely distinguishing tumour from non-malignant tissues in a cancer-type specific manner. Most expressed piRNAs mapped to known transcripts, contrary to “piRNA clusters” reported in germline cells. We showed that piRNA expression can delineate clinical features, such as histological subgroups, disease stages, and survival. PiRNAs common to many cancer types might represent a core gene-set that facilitates cancer growth, while piRNAs unique to individual cancer types likely contribute to cancer-specific biology."
+abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.nature.com/articles/srep10423"
+url_pdf = "https://www.jto.org/article/S1556-0864(15)32179-1/fulltext"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
