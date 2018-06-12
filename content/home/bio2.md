@@ -7,7 +7,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Bio"
+title = "Professional Bio"
 subtitle = "Complete CV can be downloaded [here](https://1drv.ms/b/s!AoiLqdFzpqEAgaUG7Uq_opYyko7-aQ)"
 
 # Order that this section will appear in.
