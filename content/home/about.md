@@ -10,8 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Environmental Genomics",
     "Exposome",
+    "Environmental Genomics",
     "Computational Biology",
     "Public Health"
   ]
@@ -30,7 +30,15 @@ weight = 5
 [[education.courses]]
   course = "Biotechnology Engineer"
   institution = "University of Chile"
-  year = 2008
+  year = 2008  
+  
+# Other degrees. 
+
+[[diploma.courses]]
+ course = "Silicon Valley Immersion Program"
+  institution = "University of San Francisco"
+  year = 2011
+
  
 +++  
 
