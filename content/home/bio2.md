@@ -8,7 +8,7 @@ date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Professional Bio"
-subtitle = "Complete CV can be downloaded [here](https://1drv.ms/b/s!AoiLqdFzpqEAgaUG7Uq_opYyko7-aQ)"
+subtitle = "Complete CV can be downloaded [here](https://1drv.ms/w/s!AoiLqdFzpqEAgaUF5oHSq9teYXRSlw)"
 
 # Order that this section will appear in.
 weight = 6  
