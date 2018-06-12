@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "MSc in  Interdisplinary Oncology"
   institution = "University of British Columbia"
-  year = 2018 
+  year = 2018 (Current) 
   
 [[education.courses]]
   course = "Silicon Valley Immersion Program"
@@ -31,11 +31,16 @@ weight = 5
   course = "PhD in Biomedical Sciences"
   institution = "University of Chile"
   year = 2010
+  
+[[education.courses]]
+  course = "Innovation Management Diploma "
+  institution = "University of Santiago/University of Leipzig"
+  year = 2007  
 
 [[education.courses]]
   course = "Biotechnology Engineer"
   institution = "University of Chile"
-  year = 2008  
+  year = 2002  
   
 
 
