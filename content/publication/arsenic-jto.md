@@ -22,7 +22,7 @@ publication = "**Scientific Reports**"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Human PIWI-interacting RNAs (piRNAs) are known to be expressed in germline cells, functionally silencing LINEs and SINEs. Their expression patterns in somatic tissues are largely uncharted. We analyzed 6,260 human piRNA transcriptomes derived from non-malignant and tumour tissues from 11 organs. We discovered that only 273 of the 20,831 known piRNAs are expressed in somatic non-malignant tissues. However, expression patterns of these piRNAs were able to distinguish tissue-of-origin. A total of 522 piRNAs are expressed in corresponding tumour tissues, largely distinguishing tumour from non-malignant tissues in a cancer-type specific manner. Most expressed piRNAs mapped to known transcripts, contrary to “piRNA clusters” reported in germline cells. We showed that piRNA expression can delineate clinical features, such as histological subgroups, disease stages, and survival. PiRNAs common to many cancer types might represent a core gene-set that facilitates cancer growth, while piRNAs unique to individual cancer types likely contribute to cancer-specific biology."
+abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
