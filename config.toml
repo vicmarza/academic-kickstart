@@ -64,7 +64,7 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait2.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "vmartinez(at)bccrc.ca"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  address = "675 West 10th Ave., vancouver BC, V5Z 1L3, Canada"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "+1 (604) 675 8000 x 7716"
   skype = "bictorinox"
@@ -96,7 +96,7 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
   latitude = "37.4275"
   longitude = "-122.1697"
