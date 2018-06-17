@@ -22,7 +22,7 @@ weight = 60
 ONC548 - Oncology Rotation | 2018 | Simon Fraser University - School of Biomedical Physiology and Kinesiology |	Invited lecturer
 ONCO548 - Oncology Rotation | 2017 |	University of British Columbia - Interdisciplinary Oncology Program |	Invited lecturer
 ENSC460 - Optical Instrumentation for Cancer Detection and Diagnosis | 2016 |	Simon Fraser University - Engineering Science Program |	Invited lecturer
-MEDG421 – Genetics and cell biology of cancer | 2016 |	University of British Columbia - Maculty of Medicine |	Invited lecturer
+MEDG421 – Genetics and cell biology of cancer | 2016 |	University of British Columbia - Faculty of Medicine |	Invited lecturer
 Occupational & Environmental Health Seminars | 2012 | University of British Columbia – School of Population Health |	Invited lecturer  
 
 *** 
