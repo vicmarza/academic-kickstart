@@ -14,6 +14,7 @@ weight = 5
     "Environmental Genomics",
     "Computational Biology",
     "Public Health"
+    "Innovation"
   ]
 
 # List your qualifications (such as academic degrees).  
