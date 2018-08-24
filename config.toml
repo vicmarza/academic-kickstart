@@ -163,7 +163,7 @@ enableGitInfo = false
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
   custom_css = []
-  custom_js  = ["search.js"]
+  custom_js  = ["custom.js"]
 
   # Publication types.
   #   Used to categorize publications.
