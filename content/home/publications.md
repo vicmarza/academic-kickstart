@@ -5,7 +5,7 @@ widget = "publications"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Recent Publications (2018-2017)"
+title = "Recent Publications"
 subtitle = "Full list of publications [here](https://scholar.google.ca/citations?user=V1JcXk0AAAAJ&hl=en)"
 
 # Order that this section will appear in.
@@ -33,6 +33,6 @@ list_format = 3
 publication_type = "-1"
 
 # Exclude publications that are shown in the Selected Publications widget?
-exclude_selected = false
+exclude_selected = true
 +++
 
