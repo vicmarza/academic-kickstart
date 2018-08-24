@@ -34,8 +34,14 @@ defaultContentLanguageInSubdir = false
 enableGitInfo = false
 
 [outputs]
-  home = [ "HTML", "CSS", "RSS" ]
-  section = [ "HTML", "RSS" ]
+  home = [ "HTML", "CSS", "RSS", "search"]
+  section = [ "HTML", "RSS" ]  
+  
+[outputFormats.search]
+  baseName = "search"
+  isPlainText = true
+  mediaType = "application/json"
+  notAlternative = true
 
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/readfiles/bfconfig/
@@ -163,7 +169,7 @@ enableGitInfo = false
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
   custom_css = []
-  custom_js  = ["custom.js"]
+  custom_js  = ["search.js"]
 
   # Publication types.
   #   Used to categorize publications.
