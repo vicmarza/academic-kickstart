@@ -41,8 +41,8 @@ enableGitInfo = false
   baseName = "search"
   isPlainText = true
   mediaType = "application/json"
-  notAlternative = true
-
+  notAlternative = true  
+  
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/readfiles/bfconfig/
 [blackfriday]
