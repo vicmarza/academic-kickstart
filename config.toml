@@ -305,7 +305,7 @@ enableGitInfo = false
 #    weight = 7
 
 # Search.  
-  [params.search]
+[params.search]
   # Search provider:
   #   0: No search engine
   #   1: Built-in (Fuse)
@@ -318,7 +318,8 @@ enableGitInfo = false
     app_id = ""
     api_key = ""
     index_name = ""
-    show_logo = false
+    show_logo = false  
+
 
 # Taxonomies.
 [taxonomies]
