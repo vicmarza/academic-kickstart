@@ -13,7 +13,7 @@ weight = 5
     "Exposome",
     "Environmental Genomics",
     "Computational Biology",
-    "Public Health"
+    "Public Health",
     "Innovation"  
     
   ]
