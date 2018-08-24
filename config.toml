@@ -264,7 +264,7 @@ enableGitInfo = false
   
 [[menu.main]]
   name = "Bio"
-  url = "#bio"
+  url = "#bio2"
   weight = 2
 
 [[menu.main]]
