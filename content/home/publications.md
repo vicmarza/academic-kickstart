@@ -9,9 +9,6 @@ title = "Recent Publications"
 subtitle = "Full list of publications [here](https://scholar.google.ca/citations?user=V1JcXk0AAAAJ&hl=en)"
 
 
-# Detailed list of publications
-detailed_list = true
-
 # Order that this section will appear in.
 weight = 20
 
