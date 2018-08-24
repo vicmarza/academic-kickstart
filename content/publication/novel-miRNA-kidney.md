@@ -1,10 +1,10 @@
 +++
-title = "Whole-genome sequencing analysis identifies a distinctive mutational spectrum in an arsenic-related lung tumor"
-date = 2013-11-08T15:26:04-07:00
+title = "Expanding the miRNA Transcriptome of Human Kidney and Renal Cell Carcinoma."
+date = 2018-07-27T17:52:50-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Martinez VD**", "Thu KL", "Vucic EA", "Hubaux R", "Adonis M", "Gil L", "MacCaulay C", "Lam S", "Lam WL"]
+authors = ["Sage AP", "Minatel BC", "Marshall EA", "**Martinez VD**", "Stewart GL", "Enfield KSS", "Lam WL"]
 
 # Publication type.
 # Legend:
@@ -18,8 +18,8 @@ authors = ["**Martinez VD**", "Thu KL", "Vucic EA", "Hubaux R", "Adonis M", "Gil
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "**Journal of Thoracic Oncology**"
-publication_short = ""
+publication = "**International Journal of Genomics**"
+#publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -29,7 +29,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.jto.org/article/S1556-0864(15)32179-1/fulltext"
+url_pdf = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6051088/"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -54,7 +54,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Open Access", url = "https://www.sciencedirect.com/science/article/pii/S0160412017315507?via%3Dihub"}]
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
@@ -69,5 +69,3 @@ image = ""
 caption = ""
 
 +++
-
-

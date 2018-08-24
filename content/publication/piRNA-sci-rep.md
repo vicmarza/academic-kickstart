@@ -1,10 +1,10 @@
 +++
-title = "Whole-genome sequencing analysis identifies a distinctive mutational spectrum in an arsenic-related lung tumor"
-date = 2013-11-08T15:26:04-07:00
+title = "Unique Somatic and Malignant Expression Patterns Implicate PIWI-interacting RNAs in Cancer-type Specific Biology"
+date = 2015-05-27T15:26:04-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Martinez VD**", "Thu KL", "Vucic EA", "Hubaux R", "Adonis M", "Gil L", "MacCaulay C", "Lam S", "Lam WL"]
+authors = ["**Martinez VD**", "Vucic EA", "Thu KL", "Hubaux R", "Enfield KS", "Pikor LA", "Becker-Santos DD", "Brown CJ", "Lam S", "Lam WL"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["**Martinez VD**", "Thu KL", "Vucic EA", "Hubaux R", "Adonis M", "Gil
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "**Journal of Thoracic Oncology**"
+publication = "**Scientific Reports**"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -42,7 +42,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://www.jto.org/article/S1556-0864(15)32179-1/fulltext"
+url_pdf = "https://www.nature.com/articles/srep10423"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

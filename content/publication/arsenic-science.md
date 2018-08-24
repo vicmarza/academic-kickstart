@@ -1,5 +1,5 @@
 +++
-title = "Emerging arsenic threat in Canada"
+title = "Emerging Arsenic Threat in Canada"
 date = 2013-11-01T10:32:04-07:00
 draft = false
 
