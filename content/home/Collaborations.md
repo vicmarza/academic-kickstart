@@ -25,7 +25,3 @@ list_format = 0
 ### Dr. Graham Dellaire (Dalhousie University)
 ### Dr. Wendy Robinson (BC Children's Hospital)
 ### Dr. Raj Chari (Director, NCIGenome Modification Core)
-
-*** 
-***
-
