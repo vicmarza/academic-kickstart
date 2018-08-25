@@ -13,17 +13,6 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 60
 
- 
-
-# Canada
-
-## British Columbia
-### Dr. Will Lockwood  
-
-
-### Dr. Graham Dellaire (Dalhousie University)
-### Dr. Wendy Robinson (BC Children's Hospital)
-### Dr. Raj Chari (Director, NCI Genome Modification Core)
 
 +++   
 
