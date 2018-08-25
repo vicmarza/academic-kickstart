@@ -293,10 +293,10 @@ enableGitInfo = false
   url = "#teaching"
   weight = 6
   
-[[menu.main]]
-  name = "Network"
-  url = "#Collaborations"
-  weight = 7
+#[[menu.main]]
+  #name = "Network"
+  #url = "#Collaborations"
+  #weight = 7
 
 [[menu.main]]
   name = "Contact"
