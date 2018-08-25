@@ -39,7 +39,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["arsenic", "sequencing", "environmental carcinogenesis"]
 
 # Links (optional).
 url_pdf = "https://www.jto.org/article/S1556-0864(15)32179-1/fulltext"
@@ -65,7 +65,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "jto.jpeg"
 caption = ""
 
 +++
