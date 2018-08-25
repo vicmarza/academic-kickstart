@@ -16,5 +16,3 @@ weight = 60
 
 +++   
 
-## [Plataforma360 (P360)](www.plataforma360.cl)
-> Proud to be a member of the P360 team. Plataforma360 is an innovation agency in Santiago, Chile. P360 is a shared space and a professional network for innovation experts. The commitment and talent of the P360 team, along with accumulated experience in government, academy and NGOs; makes the difference in developing tailored strategies for developing, implementing, and managing innovation processes. 
