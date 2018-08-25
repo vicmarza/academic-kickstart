@@ -19,4 +19,4 @@ weight = 60
 
 ### Dr. Graham Dellaire (Dalhousie University)
 ### Dr. Wendy Robinson (BC Children's Hospital)
-### Dr. Raj Chari (Director, NCIGenome Modification Core)
+### Dr. Raj Chari (Director, NCI Genome Modification Core)
