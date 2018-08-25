@@ -6,7 +6,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Recent Publications"
-subtitle = "Publication Metric in [Google Scholar](https://scholar.google.ca/citations?user=V1JcXk0AAAAJ&hl=en)"
+subtitle = "Publication Metrics in [Google Scholar](https://scholar.google.ca/citations?user=V1JcXk0AAAAJ&hl=en)"
 
 
 # Order that this section will appear in.
