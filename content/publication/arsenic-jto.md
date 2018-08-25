@@ -26,7 +26,7 @@ abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = ""
+image_preview = "jto.jpeg"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -65,7 +65,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "jto.jpeg"
+image = ""
 caption = ""
 
 +++
