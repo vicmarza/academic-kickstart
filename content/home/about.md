@@ -50,14 +50,11 @@ weight = 5
  
 +++  
 
-# Let me introduce myself.  
+# Welcome to my Academic Portfolio.  
 
-Born and raised in Santiago, Chile. I'm a scientist, probably because I was a curious child (I enjoyed dis/assembling toys and drumming gear just to understand how they work... I lost a lot of them of course).  Also, living in Santiago around the 1990's, I always had an environmental menace over me. Air pollution stopped me several times from playing, exercising, and enjoying the city. Then I learned that several other places in the world suffer from this and other environmental problems.
+Please, let me introduce myself: Born and raised in Santiago, Chile. I'm a scientist, probably because I was a curious child (I enjoyed playing around with toys and drumming gear just to understand how they work... Of course, I lost so much pieces). Btreathing Santiago's air around the 1990's was equivalent to smoke ~10 cigarettes per day. Air pollution stopped me several times from playing, exercising, and enjoying my city. Then I learned that several other places in the world suffer from this and other environmental problems.
 
-Now, I investigate the molecular "scars" that the environment leaves in our genome. I envision my research contributing to prevent diseases caused by exposure to environmental agents.  
+Today, I investigate the molecular "scars" that the environment leaves in our genome. I envision my research contributing to prevent diseases caused by exposure to environmental agents, particularly amongst the most vulnerable populations.  
 
-Thanks for your time,  
-
-
-*Victor*
+Thanks for your time.  
 
