@@ -115,13 +115,13 @@ enableGitInfo = false
   time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
-  comment_count = true
+  comment_count = false
 
   # Display next/previous section pager?
-  section_pager = false
+  section_pager = true
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
@@ -168,8 +168,8 @@ enableGitInfo = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  #custom_css = [ ]
-  #custom_js  = [ ]
+  custom_css = []
+  custom_js  = []
 
   # Publication types.
   #   Used to categorize publications.
@@ -191,7 +191,7 @@ enableGitInfo = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of publication pages.
   [params.publications]
@@ -202,7 +202,7 @@ enableGitInfo = false
   # Configuration of project pages.
   [params.projects]
     # List publications and talks related to the project?
-    list_children = true
+    list_children = false
 
     # Publication list format.
     #   0 = Simple
@@ -311,20 +311,20 @@ enableGitInfo = false
     #weight = 8
 
 # Search.  
-[params.search]
+#[params.search]
   # Search provider:
   #   0: No search engine
   #   1: Built-in (Fuse)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  # engine = 1
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
-  [params.search.algolia]
-    app_id = ""
-    api_key = ""
-    index_name = ""
-    show_logo = false  
+  #[params.search.algolia]
+    #app_id = ""
+    #api_key = ""
+    #index_name = ""
+    #show_logo = false  
 
 
 # Taxonomies.
