@@ -1,11 +1,13 @@
 +++
-title = "Small Non-coding RNA Transcriptome of the NCI-60 Cell Line Panel"
-date = 2017-01-09T17:52:50-07:00
+title = "A comprehensively characterized cell line panel highly representative of clinical ovarian high-grade serous carcinomas"
+date = 2017-04-11T10:32:04-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Marshall EA", "Sage AP", "Ng KW", "**Martinez VD**", "Firmino NS", "Bennewith KL",  "Lam WL"]
-
+authors = ["Thu KL", "Papari-Zareei M", "Stastny V", "Song K", "Peyton M", "**Martinez VD**", "Zhang Y", "Castro IB", "Varella-Garcia M", "Liang H", "Xing C", "Kittler R", "Milchgrub S", "Castrillon DH", "Davidson HL", "Reynolds CP", "Lam WL", "Lea J", "Gazdar AF"]  
+  
+  
+  
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -18,8 +20,8 @@ authors = ["Marshall EA", "Sage AP", "Ng KW", "**Martinez VD**", "Firmino NS", "
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "**Scientific Data**"
-#publication_short = ""
+publication = "**Oncotarget**"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -39,10 +41,10 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["arsenic", "environmental carcinogenesis", "genomics"]
 
 # Links (optional).
-url_pdf = "https://www.nature.com/articles/sdata2017157"
+url_pdf = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5421966/"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -54,7 +56,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# url_custom = [{name = "Open Access", url = "https://www.sciencedirect.com/science/article/pii/S0160412017315507?via%3Dihub"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
