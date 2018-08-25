@@ -53,7 +53,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "ocean"
+  color_theme = "forest"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -168,8 +168,8 @@ enableGitInfo = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
-  custom_js  = []
+  custom_css = [ ]
+  custom_js  = [ ]
 
   # Publication types.
   #   Used to categorize publications.
@@ -291,24 +291,24 @@ enableGitInfo = false
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 6  
+  weight = 5  
   
 [[menu.main]]
   name = "Collaborations"
   url = "#Collaborations"
-  weight = 7
+  weight = 6
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 9
+  weight = 7
   
   # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[menu.main]]
-    name = "CV"
-    url = "files/cv.pdf"
-    weight = 8
+#[[menu.main]]
+    #name = "CV"
+    #url = "files/cv.pdf"
+    #weight = 8
 
 # Search.  
 [params.search]
