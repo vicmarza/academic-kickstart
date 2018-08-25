@@ -169,7 +169,7 @@ enableGitInfo = false
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
   custom_css = []
-  custom_js  = ["search.js"]
+  custom_js  = []
 
   # Publication types.
   #   Used to categorize publications.
@@ -311,12 +311,12 @@ enableGitInfo = false
     #weight = 8
 
 # Search.  
-[params.search]
+#[params.search]
   # Search provider:
   #   0: No search engine
   #   1: Built-in (Fuse)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  #engine = 1
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
