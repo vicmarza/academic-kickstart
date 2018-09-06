@@ -42,13 +42,16 @@ filter_default = 0
 
 +++
 
-## An ErbB2 splice variant lacking exon 16 drives lung carcinoma  
+# An ErbB2 splice variant lacking exon 16 drives lung carcinoma  
 
 Arlan Walsh , Chen Ling , Harvey W Smith , Dongmei Zuo , Lei Yang , **Victor D Martinez** , Ethan S. Sokol , Dean C Pavlick , Garett M. Frampton , Juliann Chmielecki , William W Lockwood , William J Muller (corr-auth)  
 
-**Submitted to:** Proceedings of the National Academy of Sciences  
+***Submitted to:*** Proceedings of the National Academy of Sciences  
 
-**Status:** Under Review
+***Status:*** Under Review  
+
+*** 
+***
 
 
 
