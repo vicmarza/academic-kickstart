@@ -4,7 +4,7 @@ widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Manuscripts Under Review"
+title = "Ongoing Manuscripts"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -42,7 +42,7 @@ filter_default = 0
 
 +++
 
-# An ErbB2 splice variant lacking exon 16 drives lung carcinoma  
+## An ErbB2 splice variant lacking exon 16 drives lung carcinoma  
 
 Arlan Walsh , Chen Ling , Harvey W Smith , Dongmei Zuo , Lei Yang , **Victor D Martinez** , Ethan S. Sokol , Dean C Pavlick , Garett M. Frampton , Juliann Chmielecki , William W Lockwood , William J Muller (corr-auth)  
 
@@ -51,7 +51,19 @@ Arlan Walsh , Chen Ling , Harvey W Smith , Dongmei Zuo , Lei Yang , **Victor D M
 ***Status:*** Under Review  
 
 *** 
-***
+***  
+
+## Discovery of 154 novel miRNAs in mesothelioma and their potential as tissue of origin markers
+
+**Victor D. Martinez**, Christine Anderson, Erin A. Marshall, Kevin W. Ng, Brenda C. Minatel, Adam P. Sage, Katey S.S. Enfield, Zhaolin Xu and Wan L. Lam  
+
+
+***Submitted to:*** The American Journal of Respiratory and Critical Care Medicine (AJRCCM)   
+
+***Status:*** Under Review (Reviewers' report received) 
+
+
+
 
 
 
