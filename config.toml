@@ -279,7 +279,7 @@ enableGitInfo = false
   weight = 3
   
 [[menu.main]]
-  name = "Under Review"
+  name = "Ongoing"
   url = "#talks"
   weight = 4
 
