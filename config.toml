@@ -284,7 +284,7 @@ enableGitInfo = false
   weight = 4
   
 [[menu.main]]
-  name = "Under Review"
+  name = "Ongoing Projects"
   url = "#projects"
   weight = 5  
   
