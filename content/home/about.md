@@ -11,6 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Genomics",
+    "Bioinformatics",
     "Computational Biology",
     "Exposome",
     "Public Health",
