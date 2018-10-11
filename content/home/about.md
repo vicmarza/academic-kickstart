@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Exposome",
-    "Environmental Genomics",
+    "Genomics",
     "Computational Biology",
+    "Exposome"
     "Public Health",
     "Innovation"  
     
