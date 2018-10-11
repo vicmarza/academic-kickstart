@@ -51,7 +51,7 @@ weight = 5
  
 +++  
 # Welcome to my Academic Portfolio.  
-Please, let me introduce myself: Born and raised in Santiago (Chile). As a child, I spent hours playing around with pieces of toys (and drumming gear at a later age) just to understand how they work... of course, I lost so many parts. As a result, I am now a scientist who decided to move to Canada seven years ago to advance my career. Here, I investigate the molecular "scars" that the environment and other agents leave in our genome and their role in driving disease. To this end, I use sequencing technologies to understand the damage occurring at genome and epigenome levels and their biological consequences. I envision my research contributing to identifying personalized strategies to prevent and manage human diseases, based on individuals' molecular features.
+Please, let me introduce myself: Born and raised in Santiago (Chile). As a child, I spent hours playing around with pieces of toys -and drumming gear at a later age- just to understand how they work (I lost so many parts, of course). As a result, I am now a scientist who decided to move to Canada seven years ago to advance my career. Here, I investigate the molecular "scars" that the environment and other agents leave in our genome and their role in driving disease. To this end, I use sequencing technologies to understand the damage occurring at genome and epigenome levels and their biological consequences. I envision my research contributing to identifying personalized strategies to prevent and manage human diseases, based on individuals' molecular features.
 
 Thanks for your time.
 
